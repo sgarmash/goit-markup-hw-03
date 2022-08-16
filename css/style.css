@@ -108,7 +108,7 @@ body {
 
 .header-menu__link {
     display: inline-block;
-    padding: 25px 0;
+    padding: 32px 0;
     font-weight: 500;
     font-size: 14px;
     line-height: 0.875;
@@ -144,7 +144,7 @@ body {
 .header-contact__link {
     display: inline-flex;
     align-items: center;
-    padding: 25px 0;
+    padding: 32px 0;
     font-weight: 500;
     font-size: 14px;
     line-height: 0.875;
