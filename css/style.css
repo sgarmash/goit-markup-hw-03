@@ -87,7 +87,7 @@ body {
 .logo__text--blue { color: var(--color-blue); }
 
 .header .logo {
-    padding: 25px 0;
+    padding: 24px 0;
 }  
 
 /* Styles for the header element */
