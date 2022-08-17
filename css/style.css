@@ -86,6 +86,10 @@ body {
 
 .logo__text--blue { color: var(--color-blue); }
 
+.header .logo {
+    padding: 25px 0;
+}  
+
 /* Styles for the header element */
 
 .header {
@@ -219,7 +223,7 @@ body {
 .banner-title {
     width: 696px;
     margin: 0 auto;
-    padding-bottom: 30px;
+    margin-bottom: 30px;
     font-weight: 900;
     font-size: 44px;
     line-height: 1.36;
@@ -246,7 +250,7 @@ body {
     background: var(--persian-blue);
 }
 
-.features {padding-top: 94px;}
+.service {padding-bottom: 94px;}
 
 /* Styles for the About us section element */
 
@@ -336,9 +340,8 @@ body {
 
 .portfolio-list__content {
     padding: 20px 24px;
-    border-left: 1px solid var(--color-bright-gray);
-    border-right: 1px solid var(--color-bright-gray);
-    border-bottom: 1px solid var(--color-bright-gray);   
+    border: 1px solid var(--color-bright-gray);
+    border-top: none;
 }
 
 /* Styles for the footer element */
